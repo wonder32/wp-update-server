@@ -1,2 +1,6 @@
 packages/*.zip
 cache/*.txt
+
+logs/*.log
+vendor/
+composer.lock
